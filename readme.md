@@ -23,6 +23,9 @@ $ npm i -g webpack
 ```
 $ npm start
 ```
+
+## Help with style.css, pls :open_hands:
+
 ## License
 
 [MIT LICENSE](https://github.com/oeduardoal/react-javascript-boilerplate/blob/master/LICENSE) @ 2017 Eduardo Almeida

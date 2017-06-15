@@ -24,7 +24,7 @@ $ npm i -g webpack
 $ npm start
 ```
 
-### Ports, envs, settings in `webpack.config.js`
+### Ports, envs and settings wepack-dev-server in `webpack.config.js`
 ```
 [...]
 	devServer: {

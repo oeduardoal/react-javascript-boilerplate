@@ -1,8 +1,12 @@
+const BabiliPlugin = require("babili-webpack-plugin");
 module.exports = {
   entry: "./app/App.js",
   output: {
     filename: "public/bundle.js"
   },
+  plugins:[
+    new BabiliPlugin()
+  ],
   module: {
     loaders: [
       {

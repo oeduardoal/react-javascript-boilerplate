@@ -14,5 +14,10 @@ module.exports = {
         }
       }
     ]
-  }
+  },
+  devServer: {
+    inline:true,
+    port: 1234,
+    contentBase: './public',
+  },
 }

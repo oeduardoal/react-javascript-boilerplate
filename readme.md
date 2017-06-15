@@ -24,7 +24,7 @@ $ npm i -g webpack
 $ npm start
 ```
 
-## Help with style.css, pls :open_hands:
+## Help with style.css, pls. Create a branch! :open_hands:
 
 ## License
 

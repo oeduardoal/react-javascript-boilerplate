@@ -1,5 +1,5 @@
 # react-javascript-boilerplate
-Simple Search to Github api with React, Webpack, 
+Simple Search to Github api with React, Webpack, Babel.
 
 ## Installation
 ```

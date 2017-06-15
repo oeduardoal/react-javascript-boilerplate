@@ -24,6 +24,16 @@ $ npm i -g webpack
 $ npm start
 ```
 
+### Ports, envs, settings in `webpack.config.js`
+```
+[...]
+	devServer: {
+		inline:true,
+		port: 1234,
+		contentBase: './public',
+	}
+```
+
 ## Help with style.css, pls. Create a branch! :open_hands:
 
 ## License

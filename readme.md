@@ -12,7 +12,14 @@ $ git clone git@github.com:oeduardoal/react-javascript-boilerplate.git project
 $ cd project && npm i
 ```
 
-## NPM
+### Install global packages - webpack
+To avoid errors :grin:
+```
+$ npm i -g webpack
+```
+
+## Now yes! :smiley:
+### NPM
 ```
 $ npm start
 ```

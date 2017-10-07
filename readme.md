@@ -1,4 +1,6 @@
 # react-javascript-boilerplate
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foeduardoal%2Freact-javascript-boilerplate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Foeduardoal%2Freact-javascript-boilerplate?ref=badge_shield)
+
 Simple Search to Github api with React, Webpack, Babel.
 
 ## Installation
@@ -39,3 +41,6 @@ $ npm start
 ## License
 
 [MIT LICENSE](https://github.com/oeduardoal/react-javascript-boilerplate/blob/master/LICENSE) @ 2017 Eduardo Almeida
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Foeduardoal%2Freact-javascript-boilerplate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Foeduardoal%2Freact-javascript-boilerplate?ref=badge_large)
